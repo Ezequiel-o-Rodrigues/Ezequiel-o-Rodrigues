@@ -8,7 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+Automacao+com+IA+%7C+n8n+%7C+Typebot;%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%92%A1+Sistemas+SaaS+Escalaveis" alt="Typing SVG" />
 
-
+<br>
+<br>
+<br>
 <br>
 
 
