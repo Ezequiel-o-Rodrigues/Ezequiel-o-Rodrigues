@@ -3,9 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=200&section=header&text=Ezequiel%20Oliveira%20Rodrigues&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20Junior%20%7C%20Tecnico%20em%20Informatica&descSize=16&descAlignY=55&descColor=00d4ff"/>
 
 <br>
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%F0%9F%94%A5+Automacao+com+IA+%7C+n8n+%7C+Typebot;%F0%9F%9A%80+Full+Stack+Web+Developer;%F0%9F%92%A1+Sistemas+SaaS+Escalaveis" alt="Typing SVG" />
 
+<br>
 <br>
 <br>
 <br>
