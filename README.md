@@ -19,21 +19,73 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim
 
+<div align="center">
+
+<table>
+<tr>
+<td width="55%">
+
 ```typescript
 const ezequiel = {
     cargo: "Desenvolvedor de Software Junior",
     empresa: "Techify",
-    formacao: "Tecnico em Informatica | Cursando TSI",
-    foco: ["Automacao com IA", "Sistemas SaaS", "Desenvolvimento Web"],
+    formacao: [
+        "Tecnico em Informatica - IF Morrinhos",
+        "Cursando TSI - IF Morrinhos"
+    ],
+    foco: [
+        "Automacao com IA",
+        "Sistemas SaaS",
+        "Desenvolvimento Web Full Stack"
+    ],
     tecnologias: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "Bootstrap"],
-        backend: ["PHP", "APIs REST", "MySQL"],
+        frontend: ["HTML5", "CSS3", "JS", "TS", "Bootstrap"],
+        backend:  ["PHP", "APIs REST", "MySQL", "PostgreSQL"],
         automacao: ["n8n", "Typebot", "LLMs / IA"],
-        outros: ["Git", "Arduino", "cURL", "JSON"]
+        tools:    ["Git", "Arduino", "cURL", "JSON"]
     },
-    curiosidade: "Transformo processos manuais em automacoes inteligentes"
+    curiosidade: "Transformo processos manuais em automacoes inteligentes ⚡"
 };
 ```
+
+</td>
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-o-Rodrigues&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🤖_Desenvolvedor_de_Automacoes_&_SaaS-Techify_|_2026_--_Presente-7b2fff?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🌐_Desenvolvedor_Web_Freelancer-Projetos_Autonomos_|_2025_--_Presente-00d4ff?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🔧_Assistente_Tecnico_em_Eletronicos-2023_--_2025-555555?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *Tecnico em Informatica formado pelo Instituto Federal - Campus Morrinhos, atualmente cursando*
+> *Tecnologia em Sistemas para Internet (TSI). Atuo na Techify liderando o desenvolvimento de*
+> *ecossistemas de automacao, agentes de IA e chatbots inteligentes. Tambem atuo como Freelancer*
+> *criando sites responsivos, cardapios digitais e sistemas de gerenciamento. Focado em automacao*
+> *de processos utilizando IA (LLMs), n8n e Typebot.*
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -45,7 +97,8 @@ const ezequiel = {
 <tr>
 <td align="center" width="33%">
 
-### ⚡ Frontend
+### <img src="https://img.shields.io/badge/⚡-00d4ff?style=for-the-badge" /> Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,9 +108,12 @@ const ezequiel = {
 </td>
 <td align="center" width="33%">
 
-### 🔧 Backend & DB
+### <img src="https://img.shields.io/badge/🔧-7b2fff?style=for-the-badge" /> Backend & DB
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -65,12 +121,121 @@ const ezequiel = {
 </td>
 <td align="center" width="33%">
 
-### 🤖 Automacao & IA
+### <img src="https://img.shields.io/badge/🤖-EA4B71?style=for-the-badge" /> Automacao & IA
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Typebot](https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=probot&logoColor=white)
 ![AI](https://img.shields.io/badge/LLMs_/_IA-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 Skills & Competencias
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/💻-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Desenvolvimento-00d4ff?style=for-the-badge" />
+<br><br>
+Sites responsivos<br>
+Sistemas web full stack<br>
+Cardapios digitais<br>
+Softwares de gestao<br>
+Arquitetura modular
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🤖-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Automacao_&_IA-7b2fff?style=for-the-badge" />
+<br><br>
+Workflows n8n<br>
+Chatbots com Typebot<br>
+Agentes de IA / LLMs<br>
+Sistemas SaaS<br>
+Integracao de APIs
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🗄️-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge" />
+<br><br>
+Modelagem de dados<br>
+CRUD & Procedures<br>
+Triggers & Auditoria<br>
+Otimizacao de consultas<br>
+Backup & Restauracao
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🔧-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Infra_&_Suporte-FF6C37?style=for-the-badge" />
+<br><br>
+Redes de computadores<br>
+Suporte tecnico<br>
+Manutencao hardware<br>
+Automacao Arduino<br>
+Seguranca da Informacao
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/📋-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Metodologias-00ff88?style=for-the-badge" />
+<br><br>
+Scrum & Metodos Ageis<br>
+Git & GitHub<br>
+Versionamento de codigo<br>
+Padrao de projeto
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🚀-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Perfil_Profissional-00d4ff?style=for-the-badge" />
+<br><br>
+Perfil analitico e adaptavel<br>
+Autoaprendizado continuo<br>
+Pensamento logico<br>
+Visao estrategica de negocio
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🤝-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Soft_Skills-7b2fff?style=for-the-badge" />
+<br><br>
+Comunicacao assertiva<br>
+Trabalho em equipe<br>
+Comprometido com prazos<br>
+Resolucao de problemas
 
 </td>
 </tr>
@@ -423,42 +588,51 @@ const ezequiel = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experiencia Profissional
-
-<div align="center">
-
-```
-  2023          2024          2025          2026          Presente
-    │             │             │             │             │
-    ▼             ▼             ▼             ▼             ▼
-    ┌─────────────────────────┐
-    │  🔧 Assistente Tecnico  │
-    │     em Eletronicos      │
-    └─────────────────────────┘
-                                ┌─────────────────────────────────┐
-                                │  🌐 Desenvolvedor Web           │
-                                │     Freelancer                  │
-                                └─────────────────────────────────┘
-                                              ┌───────────────────┐
-                                              │ 🤖 Dev. Automacoes│
-                                              │ & SaaS @ Techify  │
-                                              └───────────────────┘
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🎓 Formacao
 
 <div align="center">
 
-| | Formacao | Instituicao | Periodo |
-|---|---------|-------------|---------|
-| 🎓 | **Tecnologia em Sistemas para Internet (TSI)** | Instituto Federal - Campus Morrinhos | 2026 - 2028 |
-| 🎓 | **Tecnico em Informatica** | Instituto Federal - Campus Morrinhos | 2023 - 2025 |
-| 📜 | **Cyber Security** | Curso Complementar | Concluido |
-| 📜 | **Metodologias Ageis - Scrum** | Curso Complementar | Concluido |
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/TSI_--_Sistemas_para_Internet-00d4ff?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Instituto_Federal_--_Campus_Morrinhos-0d1117?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/2026_--_2028-7b2fff?style=flat-square" />
+<br><br>
+Aplicacoes web escalaveis<br>
+Engenharia de software<br>
+Infraestrutura de servidores<br>
+Seguranca cibernetica
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/🎓-0d1117?style=for-the-badge" height="40"/>
+<br>
+<img src="https://img.shields.io/badge/Tecnico_em_Informatica-00d4ff?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Instituto_Federal_--_Campus_Morrinhos-0d1117?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/2023_--_2025-7b2fff?style=flat-square" />
+<br><br>
+Logica de programacao<br>
+Desenvolvimento web<br>
+Redes e banco de dados<br>
+Projetos praticos
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Cyber Security](https://img.shields.io/badge/📜_Cyber_Security-Seguranca_da_Informacao-00ff88?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/📜_Scrum-Metodologias_Ageis-00d4ff?style=for-the-badge)
 
 </div>
 
