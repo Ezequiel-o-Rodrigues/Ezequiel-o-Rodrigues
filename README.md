@@ -86,7 +86,7 @@ const ezequiel = {
 <div align="center">
 
 > *Tecnico em Informatica formado pelo Instituto Federal - Campus Morrinhos, atualmente cursando*
-> *Tecnologia em Sistemas para Internet (TSI). Atuo na Techify liderando o desenvolvimento de*
+> *Tecnologia em Sistemas para Internet (TSI). Atuo na Techify com desenvolvimento de*
 > *ecossistemas de automacao, agentes de IA e chatbots inteligentes. Tambem atuo como Freelancer*
 > *criando sites responsivos, cardapios digitais e sistemas de gerenciamento. Focado em automacao*
 > *de processos utilizando IA (LLMs), n8n e Typebot.*
